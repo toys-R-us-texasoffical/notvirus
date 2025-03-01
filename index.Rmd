@@ -14,7 +14,7 @@ Here we've got some general setup for your webpage.
 
 
 
-## Advancing your skills
+## omnomnom
 
 You can take what we've done here and do additional adaptations. 
 
